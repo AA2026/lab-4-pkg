@@ -4,19 +4,19 @@ This is a Python lab exploring various geometrical components including differen
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository:
 ```bash
 git clone https://github.com/AA2026/lab-4-pkg.git
 cd lab-4-pkg/geometry-demo
 ```
 
-2. Set up the Python environment (using mamba)
+2. Set up the Python environment (using conda):
 ```bash
 conda create -n lab_4 --file environment.txt -y
 conda activate lab_4
 ```
 
-3. Install the package in editable mode
+3. Install the package in editable mode:
  ```bash
  pip install -e .
  ```
@@ -26,7 +26,7 @@ You can run and edit your own copy of the demo.py script to see the package in a
 ```bash
  python demo.py
  ```
-Sample import for your own code
+Sample import for your own code:
 ```python
 from geometry import Square, Circle, area_stats
 
