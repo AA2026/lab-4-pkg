@@ -6,7 +6,7 @@ This is a Python lab exploring various geometrical components including differen
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/lab-4-pkg.git
+git clone https://github.com/AA2026/lab-4-pkg.git
 cd lab-4-pkg/geometry-demo
 ```
 
